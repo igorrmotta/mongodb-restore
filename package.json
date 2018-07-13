@@ -38,7 +38,7 @@
     "grunt-safer-regex": "~0.0",
     "istanbul": "~0.4",
     "mocha": "~3.4",
-    "mongodb-backup": "~1.6"
+    "mongodb-backup": "https://github.com/igorrmotta/mongodb-backup"
   },
   "engines": {
     "node": ">=4"
